@@ -48,19 +48,7 @@ function Projects({}: Props) {
               with SwiftUI to elevate your transportation experience. With its
               user-friendly interface, SwiftRide allows you to effortlessly
               display your location on a responsive map view, enabling easy
-              navigation. Experience the incredible auto-complete feature that
-              simplifies location searches, making ride booking a breeze. Select
-              your preferred destination on the map with a tap, and SwiftRide
-              will handle the rest, ensuring a smooth and convenient ride
-              request process. Enjoy a visually stunning user interface with
-              customizable pricing models and ride types, providing a
-              personalized journey. Add annotations to the map and receive
-              precise directions to your destination, ensuring you reach your
-              chosen location effortlessly. Upgrade your ride-hailing experience
-              with SwiftRide today and embrace the future of convenient,
-              efficient, and stylish transportation solutions. Let SwiftRide be
-              your ultimate travel companion, revolutionizing the way you get
-              around!
+              navigation.
             </p>
           </div>
         </div>
