@@ -111,12 +111,12 @@ function Projects({}: Props) {
               Covid-19 Tracker (Distracker) || React
             </h4>
             <p className="text-lg text-center md:text-left ">
-              GlobaTrace is the ultimate COVID-19 Tracker, powered by React JS
+              Distracker is the ultimate COVID-19 Tracker, powered by React JS
               and an integrated world map. Stay informed with real-time global
               insights on infections, recoveries, and trends. Empower yourself
               and your community with data-driven decision-making, and receive
               timely alerts for precautionary measures. Together, let's navigate
-              toward a safer and healthier world with GlobaTrace.
+              toward a safer and healthier world with Distracker.
             </p>
           </div>
         </div>
