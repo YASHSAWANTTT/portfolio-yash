@@ -16,7 +16,7 @@ export default function ExperienceCard({}: Props) {
         whileInView={{ opacity: 1, y: 0 }}
         viewport={{ once: true }}
         className="w-30 h-30 rounded-full xl:w-[100px] xl:h-[100px] object-cover object-center"
-        src="https://media.licdn.com/dms/image/C4E0BAQEkVkTJ55npXA/company-logo_200_200/0/1622523040210?e=1697673600&v=beta&t=OqP5kSwjESVB54F6NEQvlOQh_dYRV0Im6gRquyve5gg"
+        src="https://media.licdn.com/dms/image/C4E0BAQEkVkTJ55npXA/company-logo_200_200/0/1622523040210?e=1706140800&v=beta&t=Lz-vHZcBS1BVHiI1go-ItXyag8TxvTwtxB6tdGHhLWU"
         alt=""
       />
       <div className="px-0 md:px-10">
