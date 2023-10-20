@@ -24,7 +24,7 @@ export default function About({}: Props) {
         }}
         whileInView={{ x: 0, opacity: 1 }}
         viewport={{ once: true }}
-        src="https://media.licdn.com/dms/image/D4D03AQHQFz1VCH7cLA/profile-displayphoto-shrink_400_400/0/1689805380591?e=1695254400&v=beta&t=sBNqbaAPjQtAuwMd5vrTF4iY18XuFmoiPv6kpUdE12I"
+        src="https://media.licdn.com/dms/image/D4D03AQHQFz1VCH7cLA/profile-displayphoto-shrink_400_400/0/1689805380591?e=1703116800&v=beta&t=Lj1orcgCWhIwN2s2dsBxCvI_Kokyq96X6_a1au4UePs"
         className="-mb-20 md:mb-0 flex-shrink-0 w-56 h-56 rounded-full object-cover md:rounded-lg md:w-64 md:h-95 xl:w-[500px] xl:h-[400px]   "
       />
 
