@@ -50,7 +50,7 @@ export default function Home() {
       <Link href="#hero">
        <footer className="sticky bottom-5 w-full cursor-pointer ">
         <div className="flex items-center justify-center">
-          <img className="h-10 w-10 rounded-full filter grayscale hover:grayscale-0 cursor-pointer " src="https://media.licdn.com/dms/image/D4D03AQHQFz1VCH7cLA/profile-displayphoto-shrink_400_400/0/1689805380591?e=1703116800&v=beta&t=Lj1orcgCWhIwN2s2dsBxCvI_Kokyq96X6_a1au4UePs" alt="" />
+          <img className="h-10 w-10 rounded-full filter grayscale hover:grayscale-0 cursor-pointer " src="https://avatars.githubusercontent.com/u/137981875?v=4" alt="" />
         </div>
        </footer>
       </Link>
