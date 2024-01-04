@@ -16,7 +16,7 @@ function Skill({ directionLeft }: Props) {
         }}
         whileInView={{ opacity: 1, x: 0 }}
         transition={{ duration: 1 }}
-        src="https://www.logo.wine/a/logo/WordPress.com/WordPress.com-Logo.wine.svg"
+        src="https://pbs.twimg.com/profile_images/1641476962362302464/K8lb6OtN_400x400.jpg"
         className="rounded-full border-gray-500 object-cover w-24 h-24 md:w-28 md:h-28 xl:w-32 xl:h-32 filter group-hover:grayscale transition duration-300 ease-in-out  "
       />
       <div className="absolute opacity-0 group-hover:opacity-80 transition duration-300
